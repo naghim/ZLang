@@ -68,5 +68,6 @@
 #define me_too ==
 #define moar ++
 #define slap << "\n"
+#define deez_nutz this
 
 #endif // BRUHMOMENT_H
