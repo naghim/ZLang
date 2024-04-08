@@ -69,5 +69,6 @@
 #define moar ++
 #define slap << "\n"
 #define deez_nutz this
+#define numba_deez enum
 
 #endif // BRUHMOMENT_H
