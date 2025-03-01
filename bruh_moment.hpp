@@ -70,5 +70,10 @@
 #define slap << "\n"
 #define deez_nutz this
 #define numba_deez enum
+#define ts this
+#define pmo throw
+#define icl true
+#define nun null
+#define jitt ==
 
 #endif // BRUHMOMENT_H
